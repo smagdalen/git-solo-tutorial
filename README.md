@@ -1,1 +1,3 @@
-Git Solo Tutorial - Salvador Magdaleno
+Git Solo Tutorial
+Salvador Magdaleno
+Winter 2024
